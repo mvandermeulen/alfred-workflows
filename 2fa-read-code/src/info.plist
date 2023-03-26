@@ -218,7 +218,8 @@
 ## requirement
 
 1. `brew install node`
-2. Alfred has permission to `Full Disk Access`</string>
+2. Alfred has permission to `Full Disk Access`
+3. sqlite3 &gt;=v3.33.0</string>
 	<key>uidata</key>
 	<dict>
 		<key>26DC9FDD-521B-4837-8A52-0351B2C1ABEF</key>
@@ -238,9 +239,9 @@
 		<key>59FACEBF-8E54-4ED8-8978-2E2701470C14</key>
 		<dict>
 			<key>xpos</key>
-			<real>620</real>
+			<real>600</real>
 			<key>ypos</key>
-			<real>220</real>
+			<real>375</real>
 		</dict>
 		<key>B551E16A-99ED-4CFD-9FA2-BF5DE3680187</key>
 		<dict>
@@ -252,9 +253,9 @@
 		<key>DDD1D4C2-BC2D-4E83-9029-EE6A670EAFF9</key>
 		<dict>
 			<key>xpos</key>
-			<real>410</real>
+			<real>390</real>
 			<key>ypos</key>
-			<real>220</real>
+			<real>375</real>
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
@@ -284,7 +285,7 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.4</string>
+	<string>1.5</string>
 	<key>webaddress</key>
 	<string>https://github.com/alanhg/alfred-workflows/tree/master/2fa-read-code</string>
 </dict>
